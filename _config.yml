@@ -1,11 +1,11 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Ankit Pansari
+email: contact@startleventures.com  
+description: Consulting Services on Microsoft PowerApps, Zoho Creator, Google App Maker. 
+baseurl: "/personal-blog"
+url: "www.startleventures.com"
+twitter_username: pansari_a
+avatar: "https://pbs.twimg.com/profile_images/829006172166369280/O_GNk30T.jpg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Ankit Pansari" # Set default author name
+      categories: "Thoughts"
       layout: "post"
       comments: true
   -
